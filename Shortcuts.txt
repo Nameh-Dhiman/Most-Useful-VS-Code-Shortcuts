@@ -1,4 +1,4 @@
-//Most Useful VS Code Shortcuts
+//Most Useful VS Code Shortcuts Windows
 
 1. Editor
     # Toggle Sidebar: Ctrl + B
